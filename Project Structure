@@ -1,0 +1,6 @@
+devops-crud-app/
+├── Dockerfile
+├── package.json
+├── app.js
+├── test/
+    └── test.js
